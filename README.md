@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <strong>English</strong> | <a href="README.pt-BR.md">Português (Brasil)</a>
+</p>
+
+<p align="center">
   <strong>Think before you code.</strong>
   <br>
   A programming rubber-duck skill for AI coding agents.
@@ -94,7 +98,8 @@ Try something real. Pick a function you actually wrote and ask the agent to debu
 ```text
 my-rubberduck/
 ├── LICENSE                    # MIT license text
-├── README.md                  # This file
+├── README.md                  # This file (English)
+├── README.pt-BR.md            # Brazilian Portuguese translation
 ├── CONTRIBUTING.md            # Contribution guidelines and PR process
 └── skills/                    # Skill package
     └── my-rubberduck/         # Skill directory
